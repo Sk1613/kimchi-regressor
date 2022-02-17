@@ -1,6 +1,8 @@
 # Kimchi Regressor
 
-### Aim: The aim of this study is to find out how to estimate kimchi prices with the given variables. 
+### Aim: 
+
+The aim of this study is to find out how to estimate kimchi prices with the given variables. 
 
 ### Data& Codes:
 
